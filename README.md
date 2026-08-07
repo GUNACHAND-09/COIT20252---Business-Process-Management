@@ -2,7 +2,7 @@
 
 ## e-portfolio 1 - Process Analysis
 
-Artefact 1 - SOPA: Sustainability-Oriented Process Analysis and Re-Design
+### Artefact 1 - SOPA: Sustainability-Oriented Process Analysis and Re-Design
 
 **https://link.springer.com/article/10.1007/s10257-024-00695-x**
 
