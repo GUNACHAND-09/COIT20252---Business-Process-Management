@@ -51,9 +51,9 @@ Ammann, J, Lohoff, L, Wurm, B.& Hess, T.2026, How do Process Mining Users Act, T
 Artefact 3 - 
 Li, Y, Ni, Z. & Xiao, B.2025, Domain Knowledge Enhanced Process Mining for Anomaly Detection in Commercial Bank Business Processes, Systems, vol.13, no.7, article 545.
 
-**https://www.mdpi.com/2079-8954/13/7/545?utm_source=chatgpt.com**
+**https://www.mdpi.com/2079-8954/13/7/545**
 
 Artefact 4 - 
-Franzoi, S, Hartl, S, Grisold, T, van der Aa, H, Mendling, J. & vom Brocke, J.2025, Explaining process dynamics a Process Mining Context Taxonomy for sense making, process science, vol.2, article 2, pp.1-27.
+Franzoi, S, Hartl, S, Grisold, T, van der Aa, H, Mendling, J. & vom Brocke, J.2025, Explaining process dynamics a Process Mining Context Taxonomy for sense making, process science
 
-**https://www.wi.uni-muenster.de/research/publications/133015160?utm_source=chatgpt.com**
+**https://link.springer.com/article/10.1007/s44311-025-00008-6**
