@@ -14,7 +14,7 @@ This article introduces the SOPA framework for analysing and redesigning busines
 
 I selected this artefact because it broadened my understanding of process analysis. Before reading it, I mainly associated process analysis with identifying delays, costs and bottlenecks. The article shows that organisation can also analyse environmental impact and sustainability. It is meaningful evidence of my BPM learning because it demonstrates that process improvement decision can be based on several performance dimensions and that simulation can be help compare alternative before implementing changes.
 
-### Artefact 2 - How Do Process Mining Users Act, Think and Feel? (151 words)
+### Artefact 2 - How Do Process Mining Users Act, Think and Feel? 
 
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
@@ -22,7 +22,7 @@ The study examines how people in organisation actually use process mining techno
 
 I choose this article because it helped me see that process analysis is not purely a technical activity. Even when ana organisation has sophisticated process mining software the quality of the analysis still depends on how analysts managers and process owners interpret the information. This is relevant to BPM because successful process improvement requires both reliable evidence and people who understand the business context. The artefact therefore demonstrates my learning about evidence based analysis and stakeholder involvement.
 
-### Artefact 3 - Domain Knowledge Enhanced Process Mining for Anomaly Detection (158 words)
+### Artefact 3 - Domain Knowledge Enhanced Process Mining for Anomaly Detection 
 
 **https://www.mdpi.com/2079-8954/13/7/545**
 
@@ -30,7 +30,7 @@ This article studies the use of process mining to identify unusual or abnormal b
 
 I selected this artefact because it demonstrates why process analysis cannot rely only on numbers. A process activity may occur infrequently but still represent a serious risk control problem. The article taught me that analysts should combine event data with knowledge of that organisation rules and expected process behaviour. This is meaningful evidence of my understanding because BPM analysis involves interpreting process data rather than simply reporting it, especially when organisation need to identify causes of non-compliance or abnormal performance.
 
-### Artefact 4 - Explaining Process Dynamics: A Process Mining Context Taxonomy (150 words)
+### Artefact 4 - Explaining Process Dynamics: A Process Mining Context Taxonomy
 
 **https://link.springer.com/article/10.1007/s44311-025-00008-6**
 
