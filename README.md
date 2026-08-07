@@ -40,14 +40,17 @@ This is relevant to BPM because process redesign should address the real cause o
 
 Artefact 1
 Klessascheck, F, Weber,I.&pufahl,L.2025, SOPA: a framework for sustainability oriented process analysis and re-design in business process management, information systems and e-Business Management, vol. 23, pp. 489–537.
+
 **https://link.springer.com/article/10.1007/s10257-024-00695-x**
 
 Artefact 2
 Ammann, J, Lohoff, L, Wurm, B.& Hess, T.2026, How do Process Mining Users Act, Think and Feel An explorative study of process mining use patterns Business & Information systems Engineering, Vol.68, pp.319-341.
+
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
 Artefact 3
 Li, Y, Ni, Z. & Xiao, B.2025, Domain Knowledge Enhanced Process Mining for Anomaly Detection in Commercial Bank Business Processes, Systems, vol.13, no.7, article 545.
+
 **https://www.mdpi.com/2079-8954/13/7/545?utm_source=chatgpt.com**
 
 
