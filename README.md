@@ -1,6 +1,6 @@
-### COIT20252---Business-Process-Management
+# COIT20252---Business-Process-Management
 
-# e-portfolio 1 - Process Analysis
+## e-portfolio 1 - Process Analysis
 
 Artefact 1 - SOPA: Sustainability-Oriented Process Analysis and Re-Design
 
