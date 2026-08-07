@@ -16,4 +16,7 @@ I selected this artefact because it broadened my understanding of process analys
 
 The study examines how people in organisation actually use process mining technology and how different user groups obtain value from it. Process mining analyse digital event data produced during real process execution, which allows organisation to compare how work actually happens with low it was expected to happen. The article is useful because it considers not only the technology itself but also the behaviours and experiences of the people who use process mining systems.
 
+I choose this article because it helped me see that process analysis is not purely a technical activity. Even when ana organisation has sophisticated process mining software the quality of the analysis still depends on how analysts managers and process owners interpret the information. This is relevant to BPM because successful process improvement requires both reliable evidence and people who understand the business context. The artefact therefore demonstrates my learning about evidence based analysis and stakeholder involvement.
+
+
 
