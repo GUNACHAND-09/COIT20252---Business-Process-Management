@@ -30,3 +30,5 @@ I selected this artefact because it demonstrates why process analysis cannot rel
 
 **https://link.springer.com/article/10.1007/s44311-025-00008-6**
 
+This research focuses on understanding why business processes change overtime. Process mining data can reveal variation and changes in process execution but identifying a difference does not automatically explain the reason it occurred. The authors develop a taxonomy for incorporating contextual information into process mining analysis so analysis can make better sense of process dynamics. including organisational circumstances, resources, systems and other environmental factors that influence how a process is performed.
+
