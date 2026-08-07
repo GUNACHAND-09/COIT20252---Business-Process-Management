@@ -1,5 +1,9 @@
 # COIT20252---Business-Process-Management
 
+## Introduction (69 words)
+
+Business Process Management is a systematic approach used by organisations to identify, analyse, model, improve and monitor business processes. It helps organisation understand how work is performed, reduce cost, improve quality and achieve better outcomes. Business Process Management combines people technology and structured methods to support continuous improvement. By managing processes effectively organisation can respond to change, improve customer satisfaction and align daily operations with strategic business objectives successfully.
+
 ## e-portfolio 1 - Process Analysis
 
 ### Artefact 1 - SOPA: Sustainability-Oriented Process Analysis and Re-Design (140 words)
