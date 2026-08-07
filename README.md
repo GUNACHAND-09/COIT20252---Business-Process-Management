@@ -14,4 +14,6 @@ I selected this artefact because it broadened my understanding of process analys
 
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
-The study examines how people in organisation actually use process mining technology and how different user groups obtain value from it. Process mining analyse digital event data produced during real process execution, which allows organisation to compare hoe work actually 
+The study examines how people in organisation actually use process mining technology and how different user groups obtain value from it. Process mining analyse digital event data produced during real process execution, which allows organisation to compare how work actually happens with low it was expected to happen. The article is useful because it considers not only the technology itself but also the behaviours and experiences of the people who use process mining systems.
+
+
