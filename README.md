@@ -10,7 +10,7 @@ This article introduces the SOPA framework for analysing and redesigning busines
 
 I selected this artefact because it broadened my understanding of process analysis. Before reading it, I mainly associated process analysis with identifying delays, costs and bottlenecks. The article shows that organisation can also analyse environmental impact and sustainability. It is meaningful evidence of my BPM learning because it demonstrates that process improvement decision can be based on several performance dimensions and that simulation can be help compare alternative before implementing changes.
 
-### Artefact 2 - How Do Process Mining Users Act, Think and Feeel?
+### Artefact 2 - How Do Process Mining Users Act, Think and Feel?
 
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
