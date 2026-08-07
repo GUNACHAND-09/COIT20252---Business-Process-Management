@@ -18,5 +18,9 @@ The study examines how people in organisation actually use process mining techno
 
 I choose this article because it helped me see that process analysis is not purely a technical activity. Even when ana organisation has sophisticated process mining software the quality of the analysis still depends on how analysts managers and process owners interpret the information. This is relevant to BPM because successful process improvement requires both reliable evidence and people who understand the business context. The artefact therefore demonstrates my learning about evidence based analysis and stakeholder involvement.
 
+### Artefact 3 - Domain Knowledge Enhanced Process Mining for Anomaly Detection
 
+**https://www.mdpi.com/2079-8954/13/7/545**
+
+This article studies the use of process mining to identify unusual or abnormal behaviour in commercial banking processes. It argues that purely frequency based approaches may fail to recognise important anomalies when an event occurs only rarely. The researchers therefore incorporate business domain knowledge into process mining analysis to improve the identification of suspicious process behaviour. The banking context makes the value of accurate process analysis particularly clear because small deviations can have significant operational or compliance consequences.
 
