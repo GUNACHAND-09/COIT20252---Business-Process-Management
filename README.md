@@ -26,3 +26,7 @@ This article studies the use of process mining to identify unusual or abnormal b
 
 I selected this artefact because it demonstrates why process analysis cannot rely only on numbers. A process activity may occur infrequently but still represent a serious risk control problem. The article taught me that analysts should combine event data with knowledge of that organisation rules and expected process behaviour. This is meaningful evidence of my understanding because BPM analysis involves interpreting process data rather than simply reporting it, especially when organisation need to identify causes of non-compliance or abnormal performance.
 
+### Artefact 4 - Explaining Process Dynamics: A Process Mining Context Taxonomy 
+
+**https://link.springer.com/article/10.1007/s44311-025-00008-6**
+
