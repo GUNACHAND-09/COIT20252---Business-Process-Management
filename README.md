@@ -53,4 +53,7 @@ Li, Y, Ni, Z. & Xiao, B.2025, Domain Knowledge Enhanced Process Mining for Anoma
 
 **https://www.mdpi.com/2079-8954/13/7/545?utm_source=chatgpt.com**
 
+Artefact 4
+Franzoi, S, Hartl, S, Grisold, T, van der Aa, H, Mendling, J. & vom Brocke, J.2025, Explaining process dynamics a Process Mining Context Taxonomy for sense making, process science, vol.2, article 2, pp.1-27.
 
+**https://www.wi.uni-muenster.de/research/publications/133015160?utm_source=chatgpt.com**
