@@ -61,3 +61,9 @@ Artefact 4 -
 Franzoi, S, Hartl, S, Grisold, T, van der Aa, H, Mendling, J. & vom Brocke, J.2025, Explaining process dynamics a Process Mining Context Taxonomy for sense making, process science, vol.2, article 2.
 
 **https://link.springer.com/article/10.1007/s44311-025-00008-6**
+
+
+
+
+
+
