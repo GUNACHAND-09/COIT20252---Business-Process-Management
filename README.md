@@ -34,3 +34,7 @@ This research focuses on understanding why business processes change overtime. P
 
 I chose this article because it clearly distinguishes between detecting a process problem and explaining its cause. It showed me that an analyst should not look at event data in isolation. Understanding the surrounding business context is necessary before recommending process changes.
 This is relevant to BPM because process redesign should address the real cause of a problem rather than only its visible symptoms. The article therefore supports my learning about root cause thinking and context aware process analysis.
+
+
+## References 
+
