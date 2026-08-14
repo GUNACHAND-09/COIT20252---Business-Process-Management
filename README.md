@@ -37,6 +37,7 @@ gained by different user groups. Process mining analyse digital event data gener
 real life to see how work actually takes place compared to how it was expected to take place. The article is helpful 
 since it takes into account not only the technology but also the behaviours and experiences of the users of process 
 mining systems.
+
 I selected this article because it made me realize that process analysis is not a purely technical exercise. Although 
 an organisation might have advanced process mining tools the quality of the analysis relies on the ability of the
 analysts, managers and process owners to understand the information. This is important for BPM as there's a need to 
