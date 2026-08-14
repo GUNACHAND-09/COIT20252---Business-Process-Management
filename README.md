@@ -32,7 +32,16 @@ aid comparison of alternative prior to implementing process improvement decision
 
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
-The study
+The study focuses on the actual usage of process mining technology by people in organisation and the value that is 
+gained by different user groups. Process mining analyse digital event data generated in the execution of a process in 
+real life to see how work actually takes place compared to how it was expected to take place. The article is helpful 
+since it takes into account not only the technology but also the behaviours and experiences of the users of process 
+mining systems.
+I selected this article because it made me realize that process analysis is not a purely technical exercise. Although 
+an organisation might have advanced process mining tools the quality of the analysis relies on the ability of the
+analysts, managers and process owners to understand the information. This is important for BPM as there's a need to 
+have evidence and people who understand this business context to be successful in process improvement. My learning
+is therefore reflected in the artefact in relation to evidence based analysis and stakeholder involvement.
 
 ### Artefact 3 - Domain Knowledge Enhanced Process Mining for Anomaly Detection 
 
