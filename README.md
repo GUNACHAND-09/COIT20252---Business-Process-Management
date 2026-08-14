@@ -23,15 +23,16 @@ analysis can take into account other factors besides time and cost.
 
 I chose this artefact as it expanded my understanding of process analysis. I mainly thought of process analysis as a
 means to find delays costs and bottlenecks. The article demonstrates that organisations can also do environmental 
-impact 
-
+impact and sustainability analysis. It has value as an example of my BPM learning because it shows that process 
+improvement decision can be made on more than one dimension of performance and shows that simulation can be used to
+aid comparison of alternative prior to implementing process improvement decision.
 
 
 ### Artefact 2 - How Do Process Mining Users Act, Think and Feel? 
 
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
-
+The study
 
 ### Artefact 3 - Domain Knowledge Enhanced Process Mining for Anomaly Detection 
 
