@@ -72,6 +72,10 @@ better understand process dynamics such as organisational context, resources, sy
 environmental aspects that affect the way the process is executed.
 
 I selected this article because it makes clear the difference between identifying a process problem and describing
+the reason for that problem. It taught me that an analyst isn't supposed to analyse data without considering the 
+context of the events. It is critical to have an awareness of the business context before making recommendations for 
+processes. This is pertinent to BPM since process redesign should solve the true problem and not the apparent problem.
+So, the article validates my learning of context aware process analysis and root cause thinking. 
 
 ## References 
 
