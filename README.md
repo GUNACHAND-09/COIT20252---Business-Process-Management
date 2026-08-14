@@ -71,7 +71,7 @@ The authors introduce a taxonomy for integrating contextual data in process mini
 better understand process dynamics such as organisational context, resources, systems and other surrounding 
 environmental aspects that affect the way the process is executed.
 
-
+I selected this article because it makes clear the difference between identifying a process problem and describing
 
 ## References 
 
