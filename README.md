@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-Business Process Management is an approach that organisation adopt to discover, analyse, design, improve and control
+Business Process Management is an approach that organisation adopt to discover, analyse, design, improve and control business processes. Process management enables organisations to gain insight into their way of doing things and help improve their efficiency and performance. Business process management involves people, technology and methodology. Effective process management enables organisations to cope with changes and align their activities with their strategic business objectives.
 
 ## e-portfolio 1 - Process Analysis
 
