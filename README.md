@@ -58,7 +58,8 @@ process is slightly off course.
 I choose this artefact because it illustrates that numbers are not enough to analyse process. The process activity 
 could happen rarely but is a major risk control issue. I learned in the article that analysts need to apply event data
 with their understanding of the behaviour of the organisation rules and processes. This is evidence of my 
-understanding as it does not just report data about the process but re
+understanding as it does not just report data about the process but requires interpretation when organisation needs
+to find out why data is not compliant.
 
 ### Artefact 4 - Explaining Process Dynamics: A Process Mining Context Taxonomy
 
