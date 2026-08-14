@@ -15,7 +15,13 @@ strategic business objectives.
 
 **https://link.springer.com/article/10.1007/s10257-024-00695-x**
 
-The article 
+The article presents the SOPA approach for environmental sustainability business process analysis and re-engineering.
+It integrates Life Cycle Assessment, activity based costing and business process simulation to enable the analysis of
+the environmental footprint of specific activities and to compare the environmental impact of different process design.
+The research also illustrates the framework by means of an example of a case study demonstrating how the process 
+analysis can take into account other factors besides time and cost.
+
+
 
 
 
