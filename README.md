@@ -92,7 +92,8 @@ process mining use patterns Business & Information Engineering, Vol.68, pp.319-3
 **https://link.springer.com/article/10.1007/s12599-025-00931-9**
 
 Artefact 3 - 
-Li, Y, Ni, Z. & Xiao, B.2025, Domain Knowledge Enhanced Process Mining for Anomaly Detection in Commercial Bank Business Processes, Systems, vol.13, no.7, article 545.
+Li, Y, Ni, Z. & Xiao, B.2025, Domain Knowledge Enhanced Process Mining for Anomaly Detection in Commercial Bank 
+Business Processes, Systems, Vol.13, no.7, article 545.
 
 **https://www.mdpi.com/2079-8954/13/7/545**
 
