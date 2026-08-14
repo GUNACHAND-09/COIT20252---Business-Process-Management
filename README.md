@@ -65,6 +65,13 @@ to find out why data is not compliant.
 
 **https://link.springer.com/article/10.1007/s44311-025-00008-6**
 
+This study is interested in the reasons for changes in business processes over time. Process mining data can show 
+variation and changes in how the process is executed but pointing out the difference doesn't tell you why it happened.
+The authors introduce a taxonomy for integrating contextual data in process mining analysis to enable analysis to 
+better understand process dynamics such as organisational context, resources, systems and other surrounding 
+environmental aspects that affect the way the process is executed.
+
+
 
 ## References 
 
