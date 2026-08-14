@@ -80,7 +80,8 @@ So, the article validates my learning of context aware process analysis and root
 ## References 
 
 Artefact 1 - 
-Klessascheck, F, Weber,I.&pufahl,L.2025, SOPA: a framework for sustainability oriented process analysis and re-design in business process management, information systems and e-Business Management, vol. 23, pp. 489–537.
+Klessascheck, F, Weber,I.&pufahl,L.2025, SOPA: a framework for sustainability oriented process analysis and re-design 
+in business process management, information systems and e-Business Management, Vol.23, pp. 489-537.
 
 **https://link.springer.com/article/10.1007/s10257-024-00695-x**
 
