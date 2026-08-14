@@ -48,6 +48,17 @@ is therefore reflected in the artefact in relation to evidence based analysis an
 
 **https://www.mdpi.com/2079-8954/13/7/545**
 
+The work presented in this article investigates the possibility of using process mining to uncover abnormal behaviour
+in business processes for commercial banking. It states that only frequency based approaches would not be able to 
+detect important anomalies if the event happens only rarely. The researchers therefore try to enhance the process 
+mining analysis by applying business domain knowledge to help identify suspicious process behaviour. In banking the 
+importance of precise process analysis is especially evident as it has important operational implications when the 
+process is slightly off course.
+
+I choose this artefact because it illustrates that numbers are not enough to analyse process. The process activity 
+could happen rarely but is a major risk control issue. I learned in the article that analysts need to apply event data
+with their understanding of the behaviour of the organisation rules and processes. This is evidence of my 
+understanding as it does not just report data about the process but re
 
 ### Artefact 4 - Explaining Process Dynamics: A Process Mining Context Taxonomy
 
