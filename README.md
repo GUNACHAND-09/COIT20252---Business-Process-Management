@@ -21,7 +21,9 @@ the environmental footprint of specific activities and to compare the environmen
 The research also illustrates the framework by means of an example of a case study demonstrating how the process 
 analysis can take into account other factors besides time and cost.
 
-
+I chose this artefact as it expanded my understanding of process analysis. I mainly thought of process analysis as a
+means to find delays costs and bottlenecks. The article demonstrates that organisations can also do environmental 
+impact 
 
 
 
