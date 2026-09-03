@@ -109,9 +109,17 @@ Process Mining Context Taxonomy for sense making, process science, Vol.2, articl
 
 ### Artefact 1 – Using Process Modelling Tools to Support Lean Management Implementation
 
-This article explains how Business Process Model and Notation (BPMN) was used before Lean Management changes in a wind-blade manufacturing process. By mapping the existing workflow, the researchers identified handoffs, reassigned tasks and removed waste. The redesigned process reduced cycle time by up to about 30%, showing how process modelling can support measurable improvement (Costa & Ávila, 2025, p. 1).
+**https://journals.pan.pl/Content/137695/PDF/541_2k.pdf?handler=pdf**
+
+This article explains how Business Process Model and Notation (BPMN) was used before Lean Management changes in a wind-blade manufacturing process. By mapping the existing workflow the researchers identified handoffs reassigned tasks and removed waste. The redesigned process reduced cycle time by up to about 30% showing how process modelling can support measurable improvement (Costa & Avila, 2025, p. 1).
 
 I chose this artefact because it helped me understand that process modelling is more than drawing a flowchart. A useful model creates a shared view of how work actually moves between people and activities. From this article, I learned that BPMN can help identify weak points and provide a clear basis for redesign decisions. This makes the artefact meaningful evidence of my understanding of modelling as a practical BPM improvement tool.
+
+### Artefact 2 – Evolution of BPMN and Simulation Integration: Trends, Challenges, and Future Directions
+
+This article reviews research on combining BPMN with simulation. It examines 75 studies and shows that BPMN-based simulation has been applied in areas such as healthcare, logistics and cybersecurity. The article explains that simulation can extend a process model by helping organisations evaluate resource use performance and possible improvements before changing the real process (Cimino et al., 2025, p. 3235).
+
+I selected this artefact because it changed how I viewed a process model. I previously saw BPMN mainly as a visual description of activities but this article showed me that a model can also be used to test different scenarios. I learned that modelling and simulation support safer decisions because managers can study possible bottlenecks and outcomes before implementation. This demonstrates a deeper understanding of how process modelling can support analysis and redesign.
 
 
 
