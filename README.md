@@ -117,11 +117,20 @@ I chose this artefact because it helped me understand that process modelling is 
 
 ### Artefact 2 – Evolution of BPMN and Simulation Integration: Trends, Challenges, and Future Directions
 
+**https://www.sciencedirect.com/science/article/pii/S1877050925003916**
+
 This article reviews research on combining BPMN with simulation. It examines 75 studies and shows that BPMN-based simulation has been applied in areas such as healthcare, logistics and cybersecurity. The article explains that simulation can extend a process model by helping organisations evaluate resource use performance and possible improvements before changing the real process (Cimino et al., 2025, p. 3235).
 
 I selected this artefact because it changed how I viewed a process model. I previously saw BPMN mainly as a visual description of activities but this article showed me that a model can also be used to test different scenarios. I learned that modelling and simulation support safer decisions because managers can study possible bottlenecks and outcomes before implementation. This demonstrates a deeper understanding of how process modelling can support analysis and redesign.
 
+### Artefact 3 – Local Large Language Models for Business Process Modeling
 
+**https://link.springer.com/chapter/10.1007/978-3-031-82225-4_44**
 
+Apaydin and Zisgen present an approach that uses a locally deployed and fine-tuned large language model to convert written process descriptions into visual process-tree models. Their pipeline uses Llama 3 8B and a training set of 120 generated examples. The local approach also aims to reduce the privacy concerns associated with sending organisational process information to external AI services (Apaydin & Zisgen, 2025, p. 605).
+
+I chose this artefact because it shows how business process modelling is developing through artificial intelligence. I learned that natural-language descriptions can potentially be transformed into structured models making modelling faster and more accessible. At the same time the privacy issue reminded me that organisations must consider how sensitive process information is handled. This artefact therefore connects modelling skills with newer technology and responsible BPM practice.
+
+### Artefact 4 – Evaluating Large Language Models on Business Process Modeling
 
 
