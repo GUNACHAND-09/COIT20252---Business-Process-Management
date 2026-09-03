@@ -109,6 +109,9 @@ Process Mining Context Taxonomy for sense making, process science, Vol.2, articl
 
 ### Artefact 1 – Using Process Modelling Tools to Support Lean Management Implementation
 
+This article explains how Business Process Model and Notation (BPMN) was used before Lean Management changes in a wind-blade manufacturing process. By mapping the existing workflow, the researchers identified handoffs, reassigned tasks and removed waste. The redesigned process reduced cycle time by up to about 30%, showing how process modelling can support measurable improvement (Costa & Ávila, 2025, p. 1).
+
+I chose this artefact because it helped me understand that process modelling is more than drawing a flowchart. A useful model creates a shared view of how work actually moves between people and activities. From this article, I learned that BPMN can help identify weak points and provide a clear basis for redesign decisions. This makes the artefact meaningful evidence of my understanding of modelling as a practical BPM improvement tool.
 
 
 
