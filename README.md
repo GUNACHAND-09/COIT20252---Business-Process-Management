@@ -109,7 +109,7 @@ Process Mining Context Taxonomy for sense making, process science, Vol.2, articl
 
 ### Artefact 1 - Process Thinking and Process Model Quality
 
-This article made me realize that process thinking in modelling business processes is very important. It says that it's not a matter of knowing the symbols in UML or BPMN, it's a matter of creating a good process model. There is also a need for the person to know how the process operates in order of activities, decision, roles and the linkages between tasks. The study reveals that the ones with higher process thinking skills tend to develop more clear and correct process models.
+This article made me realize that process thinking in modelling business processes is very important 
 
 
 
