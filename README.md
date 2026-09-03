@@ -142,21 +142,21 @@ I selected this artefact because it helped me see that future process modelling 
 ## References 
 
 Artefact 1 – 
-
 Costa, M & Ávila, L 2025, ‘Using process modelling tools to support lean management implementation’, Management and Production Engineering Review, vol. 16, no. 4, pp. 1–13, doi:10.24425/mper.2025.157212
 
 **https://journals.pan.pl/Content/137695/PDF/541_2k.pdf?handler=pdf**
 
 Artefact 2 -
-
 Cimino, A, Filice, AC, Longo, F, Mirabelli, G, Solina, V, Mallek-Daclin, S, Daclin, N & Zacharewicz, G 2025, ‘Evolution of BPMN and simulation integration: trends, challenges, and future directions’, Procedia Computer Science, vol. 253, pp. 3235–3246, doi:10.1016/j.procs.2025.02.048.
 
 **https://www.sciencedirect.com/science/article/pii/S1877050925003916**
 
 Artefact 3 - 
-
 Apaydin, K & Zisgen, Y 2025, ‘Local large language models for business process modeling’, in A Delgado & T Slaats (eds), Process Mining Workshops: ICPM 2024 Workshops, Lecture Notes in Business Information Processing, vol. 533, Springer, Cham, pp. 605–609, doi:10.1007/978-3-031-82225-4_44.
 
 **https://link.springer.com/chapter/10.1007/978-3-031-82225-4_44**
 
 Artefact 4 - 
+Kourani, H, Berti, A, Schuster, D & van der Aalst, WMP 2026, ‘Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis’, Software and Systems Modeling, vol. 25, pp. 1151–1186, doi:10.1007/s10270-025-01318-w
+
+**https://link.springer.com/article/10.1007/s10270-025-01318-w**
