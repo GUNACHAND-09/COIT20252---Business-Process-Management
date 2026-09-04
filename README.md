@@ -111,33 +111,46 @@ Process Mining Context Taxonomy for sense making, process science, Vol.2, articl
 
 **https://journals.pan.pl/Content/137695/PDF/541_2k.pdf?handler=pdf**
 
-This article explains how Business Process Model and Notation (BPMN) was used before Lean Management changes in a wind-blade manufacturing process. By mapping the existing workflow the researchers identified handoffs reassigned tasks and removed waste. The redesigned process reduced cycle time by up to about 30% showing how process modelling can support measurable improvement (Costa & Avila, 2025, p. 1).
+This article explains how Business Process Model and Notation (BPMN) was used before Lean Management changes in a wind-blade manufacturing process. By mapping the existing workflow the researchers identified
+handoffs reassigned tasks and removed waste. The redesigned process reduced cycle time by up to about 30% showing how process modelling can support measurable improvement (Costa & Avila, 2025, p. 1).
 
-I chose this artefact because it helped me understand that process modelling is more than drawing a flowchart. A useful model creates a shared view of how work actually moves between people and activities. From this article, I learned that BPMN can help identify weak points and provide a clear basis for redesign decisions. This makes the artefact meaningful evidence of my understanding of modelling as a practical BPM improvement tool.
+I chose this artefact because it helped me understand that process modelling is more than drawing a flowchart. A useful model creates a shared view of how work actually moves between people and activities. From
+this article, I learned that BPMN can help identify weak points and provide a clear basis for redesign decisions. This makes the artefact meaningful evidence of my understanding of modelling as a practical BPM
+improvement tool.
 
 ### Artefact 2 – Evolution of BPMN and Simulation Integration: Trends, Challenges, and Future Directions
 
 **https://www.sciencedirect.com/science/article/pii/S1877050925003916**
 
-This article reviews research on combining BPMN with simulation. It examines 75 studies and shows that BPMN-based simulation has been applied in areas such as healthcare, logistics and cybersecurity. The article explains that simulation can extend a process model by helping organisations evaluate resource use performance and possible improvements before changing the real process (Cimino et al., 2025, p. 3235).
+This article reviews research on combining BPMN with simulation. It examines 75 studies and shows that BPMN-based simulation has been applied in areas such as healthcare, logistics and cybersecurity. The article
+explains that simulation can extend a process model by helping organisations evaluate resource use performance and possible improvements before changing the real process (Cimino et al., 2025, p. 3235).
 
-I selected this artefact because it changed how I viewed a process model. I previously saw BPMN mainly as a visual description of activities but this article showed me that a model can also be used to test different scenarios. I learned that modelling and simulation support safer decisions because managers can study possible bottlenecks and outcomes before implementation. This demonstrates a deeper understanding of how process modelling can support analysis and redesign.
+I selected this artefact because it changed how I viewed a process model. I previously saw BPMN mainly as a visual description of activities but this article showed me that a model can also be used to test
+different scenarios. I learned that modelling and simulation support safer decisions because managers can study possible bottlenecks and outcomes before implementation. This demonstrates a deeper understanding
+of how process modelling can support analysis and redesign.
 
 ### Artefact 3 – Local Large Language Models for Business Process Modeling
 
 **https://link.springer.com/chapter/10.1007/978-3-031-82225-4_44**
 
-Apaydin and Zisgen present an approach that uses a locally deployed and fine-tuned large language model to convert written process descriptions into visual process-tree models. Their pipeline uses Llama 3 8B and a training set of 120 generated examples. The local approach also aims to reduce the privacy concerns associated with sending organisational process information to external AI services (Apaydin & Zisgen, 2025, p. 605).
+Apaydin and Zisgen present an approach that uses a locally deployed and fine-tuned large language model to convert written process descriptions into visual process-tree models. Their pipeline uses Llama 3 8B and
+a training set of 120 generated examples. The local approach also aims to reduce the privacy concerns associated with sending organisational process information to external AI services (Apaydin & Zisgen, 2025,
+p. 605).
 
-I chose this artefact because it shows how business process modelling is developing through artificial intelligence. I learned that natural-language descriptions can potentially be transformed into structured models making modelling faster and more accessible. At the same time the privacy issue reminded me that organisations must consider how sensitive process information is handled. This artefact therefore connects modelling skills with newer technology and responsible BPM practice.
+I chose this artefact because it shows how business process modelling is developing through artificial intelligence. I learned that natural-language descriptions can potentially be transformed into structured
+models making modelling faster and more accessible. At the same time the privacy issue reminded me that organisations must consider how sensitive process information is handled. This artefact therefore connects
+modelling skills with newer technology and responsible BPM practice.
 
 ### Artefact 4 – Evaluating Large Language Models on Business Process Modeling
 
 **https://link.springer.com/article/10.1007/s10270-025-01318-w**
 
-This article discusses the use of large language models for business process modelling and explains how an LLM can translate a textual process description into a structured candidate model. It describes the LLM as a bridge between unstructured descriptions and formal process representations while recognising that natural language may contain ambiguity or incomplete information (Kourani et al., 2026, p. 1154).
+This article discusses the use of large language models for business process modelling and explains how an LLM can translate a textual process description into a structured candidate model. It describes the LLM
+as a bridge between unstructured descriptions and formal process representations while recognising that natural language may contain ambiguity or incomplete information (Kourani et al., 2026, p. 1154).
 
-I selected this artefact because it helped me see that future process modelling may involve collaboration between analysts and AI rather than completely manual modelling. I learned that automation can reduce modelling effort, but the quality of the input and generated model still matter. This is meaningful to my BPM learning because it highlights both the opportunities and limitations of using AI to create process models for later analysis and improvement.
+I selected this artefact because it helped me see that future process modelling may involve collaboration between analysts and AI rather than completely manual modelling. I learned that automation can reduce
+modelling effort, but the quality of the input and generated model still matter. This is meaningful to my BPM learning because it highlights both the opportunities and limitations of using AI to create process
+models for later analysis and improvement.
 
 ## References 
 
@@ -147,16 +160,19 @@ Costa, M & Ávila, L 2025, ‘Using process modelling tools to support lean mana
 **https://journals.pan.pl/Content/137695/PDF/541_2k.pdf?handler=pdf**
 
 Artefact 2 -
-Cimino, A, Filice, AC, Longo, F, Mirabelli, G, Solina, V, Mallek-Daclin, S, Daclin, N & Zacharewicz, G 2025, ‘Evolution of BPMN and simulation integration: trends, challenges, and future directions’, Procedia Computer Science, vol. 253, pp. 3235–3246, doi:10.1016/j.procs.2025.02.048.
+Cimino, A, Filice, AC, Longo, F, Mirabelli, G, Solina, V, Mallek-Daclin, S, Daclin, N & Zacharewicz, G 2025, ‘Evolution of BPMN and simulation integration: trends, challenges, and future directions’, Procedia
+Computer Science, vol. 253, pp. 3235–3246, doi:10.1016/j.procs.2025.02.048.
 
 **https://www.sciencedirect.com/science/article/pii/S1877050925003916**
 
 Artefact 3 - 
-Apaydin, K & Zisgen, Y 2025, ‘Local large language models for business process modeling’, in A Delgado & T Slaats (eds), Process Mining Workshops: ICPM 2024 Workshops, Lecture Notes in Business Information Processing, vol. 533, Springer, Cham, pp. 605–609, doi:10.1007/978-3-031-82225-4_44.
+Apaydin, K & Zisgen, Y 2025, ‘Local large language models for business process modeling’, in A Delgado & T Slaats (eds), Process Mining Workshops: ICPM 2024 Workshops, Lecture Notes in Business Information
+Processing, vol. 533, Springer, Cham, pp. 605–609, doi:10.1007/978-3-031-82225-4_44.
 
 **https://link.springer.com/chapter/10.1007/978-3-031-82225-4_44**
 
 Artefact 4 - 
-Kourani, H, Berti, A, Schuster, D & van der Aalst, WMP 2026, ‘Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis’, Software and Systems Modeling, vol. 25, pp. 1151–1186, doi:10.1007/s10270-025-01318-w.
+Kourani, H, Berti, A, Schuster, D & van der Aalst, WMP 2026, ‘Evaluating large language models on business process modeling: framework, benchmark, and self-improvement analysis’, Software and Systems Modeling,
+vol. 25, pp. 1151–1186, doi:10.1007/s10270-025-01318-w.
 
 **https://link.springer.com/article/10.1007/s10270-025-01318-w**
