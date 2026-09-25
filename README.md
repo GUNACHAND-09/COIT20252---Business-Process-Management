@@ -178,3 +178,50 @@ vol. 25, pp. 1151–1186, doi:10.1007/s10270-025-01318-w.
 **https://link.springer.com/article/10.1007/s10270-025-01318-w**
 
 
+
+
+## E-Portfolio 3 – Robotic Process Automation and Process Cybersecurity
+
+### Artefact 1 – Implementation of Robotic Process Automation in the Jordanian Banking Sector
+
+**https://www.sciencedirect.com/science/article/pii/S1877050925021076**
+
+This article examines how Robotic Process Automation is being applied in the banking industry of Jordan, based on interviews with consultants and experienced professionals.It highlights several advantages, such
+as enhanced efficiency, quicker task execution, increased accuracy, greater consistency, and reduced operational expenses.The article also outlines the challenges faced, including a lack of necessary skills, the
+complexity of implementation, high licensing fees, and concerns related to data governance and security (Daoud & Anaya, 2025, p.471).
+
+I selected this source because it provides a well-rounded perspective on RPA, rather than portraying automation as an effortless solution.
+I learned that identifying repetitive tasks for automation is just one component of an RPA initiative; organizations must also invest in the right people, governance structures, and security measures to support
+the technology.This source is significant because it ties RPA to real-world business environments, demonstrating that effective process automation relies on both technological ability and the organization's
+preparedness.
+
+### Artefact 2 – Audit Framework for Control Robotic Process Automation Projects
+
+**https://www.sciencedirect.com/science/article/pii/S1877050925005253**
+
+### Artefact 3 – Towards a Secure Robotic Process Automation Ecosystem: Threats and Countermeasures
+
+**https://ijgis.pubpub.org/pub/xoxhtq8z/release/1**
+
+### Artefact 4 – Securing the Automated Enterprise: A Framework for Mitigating Security and Privacy Risks in AI-Driven Workflow Automation
+
+**https://www.researchgate.net/publication/391556569_Securing_the_Automated_Enterprise_A_Framework_for_Mitigating_Security_and_Privacy_Risks_in_AI-Driven_Workflow_Automation**
+
+## References 
+
+Artefact 1 -
+Daoud, S & Anaya, L 2025, ‘Implementation of robotic process automation in Jordanian banking sector: benefits and challenges’, Procedia Computer Science, vol. 263, pp. 471–480, doi:10.1016/j.procs.2025.07.057.
+
+
+Artefact 2 -
+Patrício, L, Silva, J, Costa, C, Varela, L, Silveira, Z & Cruz-Cunha, MM 2025, ‘Audit framework for control robotic process automation projects’, Procedia Computer Science, vol. 256, pp. 685–695,
+doi:10.1016/j.procs.2025.02.168.
+
+Artefact 3 -
+Kandula, SR, Kassetty, N & Mogulluri, HK 2025, ‘Towards a secure robotic process automation ecosystem: threats and countermeasures’, International Journal of Global Innovations and Solutions, February,
+doi:10.21428/e90189c8.ef0204a8.
+
+Artefact 4 -
+Chennupati, N 2025, ‘Securing the automated enterprise: a framework for mitigating security and privacy risks in AI-driven workflow automation’, Journal of Computer Science and Technology Studies, vol. 7, no. 3,
+pp. 624–632, doi:10.32996/jcsts.2025.7.3.71.
+
