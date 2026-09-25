@@ -198,6 +198,7 @@ preparedness.
 ### Artefact 2 – Audit Framework for Control Robotic Process Automation Projects
 
 **https://www.sciencedirect.com/science/article/pii/S1877050925005253**
+
 Patricio and colleagues propose an audit framework designed around the RPA technology lifecycle. Their study reviews existing audit literature, identifies gaps and develops criteria that can be used to control
 RPA projects across different stages. The framework is intended to improve oversight and performance rather than treating auditing as something performed only after an automation has been deployed (Patricio et
 al., 2025, p. 685).
@@ -219,6 +220,14 @@ audit trails is necessary for maintaining the integrity and trustworthiness of a
 ### Artefact 4 – Securing the Automated Enterprise: A Framework for Mitigating Security and Privacy Risks in AI-Driven Workflow Automation
 
 **https://www.researchgate.net/publication/391556569_Securing_the_Automated_Enterprise_A_Framework_for_Mitigating_Security_and_Privacy_Risks_in_AI-Driven_Workflow_Automation**
+
+Chennupati examines security and privacy risks created by AI-driven workflow automation, including systems that combine AI and RPA. The article explains that automated workflows can create additional attack
+surfaces because they may use privileged credentials, transfer sensitive data and make decisions with limited human oversight. It proposes controls such as encryption, least-privilege access, continuous
+monitoring and security-focused governance (Chennupati, 2025, p. 627).
+I selected this artefact because it helped me understand process cybersecurity as a continuous BPM responsibility rather than only an IT issue. I learned that when a process becomes more automated, security
+controls must develop with it. This evidence is meaningful because it shows that efficiency and cybersecurity need to be designed together. A process cannot be considered successfully automated if it performs
+quickly but exposes organisational data or systems to unnecessary risk.
+
 
 ## References 
 
