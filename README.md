@@ -198,10 +198,23 @@ preparedness.
 ### Artefact 2 – Audit Framework for Control Robotic Process Automation Projects
 
 **https://www.sciencedirect.com/science/article/pii/S1877050925005253**
+Patricio and colleagues propose an audit framework designed around the RPA technology lifecycle. Their study reviews existing audit literature, identifies gaps and develops criteria that can be used to control
+RPA projects across different stages. The framework is intended to improve oversight and performance rather than treating auditing as something performed only after an automation has been deployed (Patricio et
+al., 2025, p. 685).
+I selected this artefact because governance can easily be overlooked when the main focus of automation is efficiency. I learned that automated processes still require accountability, controls and review
+throughout their lifecycle. This strengthened my understanding that BPM does not end when a process is automated. Organisations must continue monitoring the automated process to ensure it remains reliable,
+controlled and aligned with business requirements.
 
 ### Artefact 3 – Towards a Secure Robotic Process Automation Ecosystem: Threats and Countermeasures
 
 **https://ijgis.pubpub.org/pub/xoxhtq8z/release/1**
+
+This article focuses specifically on cybersecurity risks in RPA environments. It identifies problems such as credential exposure, excessive bot privileges, insecure APIs, weak logging and data leakage. The
+authors recommend measures including credential vaults, multi-factor authentication, role-based access control, least privilege, regular access audits and stronger monitoring to reduce these risks (Kandula,
+Kassetty & Mogulluri, 2025, p. 8).
+I chose this artefact because software bots often access several systems and may handle sensitive information, so a compromised bot could affect an entire business process. I learned that process cybersecurity
+must be designed into automation rather than added after deployment. The artefact helped me connect cybersecurity controls directly with BPM by showing that protecting credentials, permissions, integrations and
+audit trails is necessary for maintaining the integrity and trustworthiness of an automated process.
 
 ### Artefact 4 – Securing the Automated Enterprise: A Framework for Mitigating Security and Privacy Risks in AI-Driven Workflow Automation
 
@@ -212,16 +225,26 @@ preparedness.
 Artefact 1 -
 Daoud, S & Anaya, L 2025, ‘Implementation of robotic process automation in Jordanian banking sector: benefits and challenges’, Procedia Computer Science, vol. 263, pp. 471–480, doi:10.1016/j.procs.2025.07.057.
 
+**https://www.sciencedirect.com/science/article/pii/S1877050925021076**
+
 
 Artefact 2 -
 Patrício, L, Silva, J, Costa, C, Varela, L, Silveira, Z & Cruz-Cunha, MM 2025, ‘Audit framework for control robotic process automation projects’, Procedia Computer Science, vol. 256, pp. 685–695,
 doi:10.1016/j.procs.2025.02.168.
 
+**https://www.sciencedirect.com/science/article/pii/S1877050925005253**
+
+
 Artefact 3 -
 Kandula, SR, Kassetty, N & Mogulluri, HK 2025, ‘Towards a secure robotic process automation ecosystem: threats and countermeasures’, International Journal of Global Innovations and Solutions, February,
 doi:10.21428/e90189c8.ef0204a8.
 
+**https://ijgis.pubpub.org/pub/xoxhtq8z/release/1**
+
+
 Artefact 4 -
 Chennupati, N 2025, ‘Securing the automated enterprise: a framework for mitigating security and privacy risks in AI-driven workflow automation’, Journal of Computer Science and Technology Studies, vol. 7, no. 3,
 pp. 624–632, doi:10.32996/jcsts.2025.7.3.71.
+
+**https://www.researchgate.net/publication/391556569_Securing_the_Automated_Enterprise_A_Framework_for_Mitigating_Security_and_Privacy_Risks_in_AI-Driven_Workflow_Automation**
 
